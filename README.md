@@ -1,6 +1,6 @@
 # HPC Disease Simulation
 
-This is the template project for the HPC-05 Programming Lab project "Disease Simulation".
+This is the template project for the "Disease Simulation".
 
 ## Compilation 
 
